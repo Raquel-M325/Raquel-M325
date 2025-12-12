@@ -3,8 +3,6 @@
   <h1>👋 Hi, I'm Raquel Martiniano</h1>
   <p>Student of Analysis & Systems Development Technology | Web & Game Developer</p>
 
-  <!-- Animated Avatar -->
-  <img src="https://i.ibb.co/your-avatar-animated.gif" alt="Animated Avatar" height="180"/>
 </div>
 
 ---
@@ -39,25 +37,21 @@ I have solid experience in **C++, Python, and Assembly MIPS**, and I enjoy build
 ## 📂 Main Projects
 
 <div align="left">
-
 ### 🎮 Tic-Tac-Toe in Assembly MIPS
-<p><a href="https://github.com/Raquel-M325/Jogo-da-Velha-"></a></p>
-<p>Complete project with game logic, bitmap drawing, and sound effects.</p>
+[GitHub Repository](https://github.com/Raquel-M325/Jogo-da-Velha-)  
+Complete project with game logic, bitmap drawing, and sound effects.
 
 ### 🌐 COMUS Website (WordPress + Elementor)
-<p><a href="https://comus.cnat.ifrn.edu.br">
-</a></p>
-<p>Institutional website under development, based on Figma design.</p>
+[Visit the Website](https://comus.cnat.ifrn.edu.br)  
+Institutional website under development, based on Figma design.
 
 ### 🎨 Figma Prototype — COMUS
-<p><a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
-</a></p>
-<p>Interface design that is being implemented on WordPress.</p>
+[View Prototype](https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0)  
+Interface design that is being implemented on WordPress.
 
 ### 🧩 OOP Project
-<p><a href="https://github.com/Raquel-M325/Projeto-do-POO">
-</a></p>
-<p>System developed using Object-Oriented Programming principles.</p>
+[GitHub Repository](https://github.com/Raquel-M325/Projeto-do-POO)  
+System developed using Object-Oriented Programming principles.
 
 </div>
 
