@@ -9,6 +9,19 @@
 
 ---
 
+## 👋 About Me
+
+Hi! I'm **Raquel Martiniano**, a student of **Technology in Analysis and Systems Development (TADS)**.  
+I have solid experience in **C++, Python, and Assembly MIPS**, and I enjoy building games and learning new programming concepts.  
+
+- 🎮 Developed **Tic-Tac-Toe in Assembly MIPS** (bitmap + sound effects)  
+- 🌐 Currently working on **WordPress + Elementor** websites  
+- 🧩 Participating in the project **Web Development for CSA at COMUS**  
+- 👩🏻‍💻 Designing modern, responsive, and user-friendly interfaces  
+- 🛠 Continuously improving my skills and exploring new technologies
+
+---
+
 ## 🌟 Technologies
 
 <p align="center">
