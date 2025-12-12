@@ -1,9 +1,16 @@
 <h1 align="center">👋 Olá! Eu sou a Raquel Martiniano</h1>
 
 <p align="center">
-  Estudante de <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong>,  
+  Estudante de <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong>,
   com foco em programação, lógica computacional e desenvolvimento web.
 </p>
+
+---
+
+### 👩‍🦱 Avatar personalizado
+<div align="center">
+  <img src="https://i.ibb.co/0JqvGxN/avatar-loira-cacheada-long.jpg" alt="Avatar Loira Cacheada Longa" height="180"/>
+</div>
 
 ---
 
@@ -12,10 +19,10 @@
 - 🎓 Estudante de TADS  
 - 📚 Experiência sólida em **C++, Python e Assembly MIPS**  
 - 🎮 Desenvolvedora do **Jogo da Velha em Assembly MIPS** (bitmap + efeitos sonoros)  
-- 🌐 Desenvolvendo sites institucionais em **WordPress + Elementor**  
+- 🌐 Desenvolvimento de sites institucionais em **WordPress + Elementor**  
 - 🧩 Participo do projeto **Desenvolvimento Web do CSA para COMUS**  
 - 👩🏻‍💻 Criação de interfaces modernas, responsivas e organizadas  
-- 🛠 Sempre estudando novas tecnologias e aprimorando minhas habilidades  
+- 🛠 Sempre estudando novas tecnologias e aprimorando minhas habilidades
 
 ---
 
@@ -32,18 +39,18 @@ Atualmente trabalho com **desenvolvimento de sites profissionais em WordPress**,
 **Projeto em andamento:**
 
 🔹 **Desenvolvimento Web do CSA para COMUS**  
+Contribuo com:
+
 - Layouts personalizados  
 - Estruturação de conteúdo institucional  
 - Criação de páginas administrativas  
 - Ajustes estéticos e funcionais  
-- Suporte técnico e melhorias constantes  
+- Suporte técnico e melhorias constantes
 
-🎨 Protótipo no Figma: [Acesse aqui](https://www.behance.net/gallery/238389939/Site-da-Coordenacao-de-Musical-(COMUS)-do-IFRNCNAT)  
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -78,42 +85,44 @@ Atualmente trabalho com **desenvolvimento de sites profissionais em WordPress**,
 
 ## 📂 Projetos em Destaque
 
-### 🎮 Jogo da Velha em Assembly MIPS
-- Projeto completo com lógica, bitmap e efeitos sonoros  
-🔗 [Repositório](https://github.com/Raquel-M325/Jogo-da-Velha-)
+### 🎮 **Jogo da Velha em Assembly MIPS**
+Projeto completo com lógica, desenho no bitmap e efeitos sonoros.  
+🔗 *https://github.com/Raquel-M325/Jogo-da-Velha-*
 
-### 🌐 Desenvolvimento Web — WordPress + Elementor
-- Projeto institucional: **Desenvolvimento Web do CSA para COMUS**  
-- Protótipo visual feito no **Figma**  
-🔗 [Protótipo no Behance](https://www.behance.net/gallery/238389939/Site-da-Coordenacao-de-Musical-(COMUS)-do-IFRNCNAT)
+---
 
-### 🧩 Projeto de POO
-- Sistema orientado a objetos  
-🔗 [Repositório](https://github.com/Raquel-M325/Projeto-do-POO)
+### 🌐 **Projetos Web — WordPress + Elementor**
+Site institucional (WordPress)
+Desenvolvimento do site usando tema personalizado e interface baseada no design do Figma.  
+🔗 *https://comus.cnat.ifrn.edu.br*
+
+### 🎨 **Protótipo Figma — Interface do site pelo Behance**
+Design que está sendo implementado no WordPress.  
+🔗 *https://www.behance.net/gallery/238389939/Site-da-Coordenacao-de-Musical-(COMUS)-do-IFRNCNAT*
+
+---
+
+### 🧩 **Projeto de POO**
+Sistema desenvolvido com programação orientada a objetos.  
+🔗 *https://github.com/Raquel-M325/Projeto-do-POO*
 
 ---
 
 ## 📊 Status do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raquel-M325&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquel-M325&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raquel-M325&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquel-M325&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
 
 ## 📫 Como me encontrar
 
-- 📧 Email: raquelmartiniano14@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/raquel-martiniano-76777b1a2/
+- 📧 **raquelmartiniano14@gmail.com**  
+- 🔗 **LinkedIn**: [Raquel Martiniano](https://www.linkedin.com/in/raquel-martiniano-76777b1a2/)
 
 ---
-
-### 👩‍🦱 Avatar personalizado
-<div align="center">
-  <img src="https://i.ibb.co/0JqvGxN/avatar-loira-cacheada-long.jpg" alt="Avatar Loira Cacheada Longa" height="180"/>
-</div>
-
 
 <p align="center">
   Feito com 💙 por <strong>Raquel Martiniano</strong>
