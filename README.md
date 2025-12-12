@@ -37,9 +37,6 @@ I have solid experience in **C++, Python, and Assembly MIPS**, and I enjoy build
 ## 📂 Main Projects
 
 <div align="left">
-### 🎮 **Tic-Tac-Toe in Assembly MIPS**
-[GitHub Repository](https://github.com/Raquel-M325/Jogo-da-Velha-)  
-Complete project with game logic, bitmap drawing, and sound effects.
 
 ### 🌐 **COMUS Website (WordPress + Elementor)**
 [Visit the Website](https://comus.cnat.ifrn.edu.br)  
@@ -52,6 +49,10 @@ Interface design that is being implemented on WordPress.
 ### 🧩 **OOP Project**
 [GitHub Repository](https://github.com/Raquel-M325/Projeto-do-POO)  
 System developed using Object-Oriented Programming principles.
+
+### 🎮 **Tic-Tac-Toe in Assembly MIPS**
+[GitHub Repository](https://github.com/Raquel-M325/Jogo-da-Velha-)  
+Complete project with game logic, bitmap drawing, and sound effects.
 
 </div>
 
