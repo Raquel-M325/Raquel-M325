@@ -25,23 +25,20 @@
 
 ## 📂 Main Projects
 
-<div align="center">
+<div align="left">
 
 ### 🎮 Tic-Tac-Toe in Assembly MIPS
 <a href="https://github.com/Raquel-M325/Jogo-da-Velha-">
-  <img src="https://i.ibb.co/3C2nRtV/jogo-da-velha-screenshot.png" alt="Tic-Tac-Toe" height="120"/>
 </a>
 <p>Complete project with game logic, bitmap drawing, and sound effects.</p>
 
 ### 🌐 COMUS Website (WordPress + Elementor)
 <a href="https://comus.cnat.ifrn.edu.br">
-  <img src="https://i.ibb.co/4S4F8vV/comus-screenshot.png" alt="COMUS Website" height="120"/>
 </a>
 <p>Institutional website under development, based on Figma design.</p>
 
 ### 🎨 Figma Prototype — COMUS
 <a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Prototype" height="80"/>
 </a>
 <p>Interface design that is being implemented on WordPress.</p>
 
