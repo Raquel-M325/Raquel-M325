@@ -94,7 +94,7 @@ Desenvolvimento do site usando tema personalizado e interface baseada no design 
 
 ### 🎨 **Protótipo Figma — Interface do site**
 Design que está sendo implementado no WordPress.  
-🔗 *https://www.behance.net/gallery/238389939/Site-da-Coordenacao-de-Musical-(COMUS)-do-IFRNCNAT*
+🔗 *https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0*
 
 ---
 
@@ -116,7 +116,8 @@ Sistema desenvolvido com programação orientada a objetos.
 ## 📫 Como me encontrar
 
 - 📧 **raquelmartiniano14@gmail.com**  
-- 🔗 **LinkedIn**: [Raquel Martiniano](https://www.linkedin.com/in/raquel-martiniano-76777b1a2/)
+- 🔗 **LinkedIn**: [Raquel Martiniano](https://www.linkedin.com/in/raquel-martiniano-76777b1a2/)  
+- 🔗 **Behance**: [Raquel Martiniano](https://www.behance.net/raquelmartini2) 
 
 ---
 
