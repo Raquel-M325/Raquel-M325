@@ -4,8 +4,8 @@
   <h1>👋 Hi, I'm Raquel Martiniano</h1>
   <p>Student of Analysis & Systems Development Technology | Web & Game Developer</p>
 
-  <!-- Avatar personalizado -->
-  <img src="https://i.ibb.co/album/avatar-loira-cacheada-long.jpg" alt="Avatar Loira Cacheada Longa" height="180"/>
+  <!-- Avatar animado -->
+  <img src="https://i.ibb.co/your-avatar-animated.gif" alt="Animated Avatar" height="180"/>
 </div>
 
 ---
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Affinity_Designer-00B2FF?style=for-the-badge&logo=affinity&logoColor=white"/>
 </p>
 
 ---
