@@ -44,7 +44,6 @@
 
 ### 🧩 OOP Project
 <a href="https://github.com/Raquel-M325/Projeto-do-POO">
-  <img src="https://i.ibb.co/8bXh4KX/poo-screenshot.png" alt="OOP Project" height="120"/>
 </a>
 <p>System developed using Object-Oriented Programming principles.</p>
 
