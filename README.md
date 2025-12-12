@@ -115,7 +115,7 @@ Sistema desenvolvido com programação orientada a objetos.
 
 ## 📫 Como me encontrar
 
-- 📧 **raquelmartiniano14@gmail.com**  
+- 📧 **Email:**[Raquel Martiniano](raquelmartiniano14@gmail.com)  
 - 🔗 **LinkedIn**: [Raquel Martiniano](https://www.linkedin.com/in/raquel-martiniano-76777b1a2/)  
 - 🔗 **Behance**: [Raquel Martiniano](https://www.behance.net/raquelmartini2) 
 
