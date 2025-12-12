@@ -104,15 +104,16 @@ Atualmente trabalho com **desenvolvimento de sites profissionais em WordPress**,
 
 ## 📫 Como me encontrar
 
-- 📧 raquelmartiniano14@gmail.com  
-- 🔗 LinkedIn: [Raquel Martiniano](https://www.linkedin.com/in/raquel-martiniano-76777b1a2/)
+- 📧 Email: raquelmartiniano14@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/raquel-martiniano-76777b1a2/
 
 ---
 
 ### 👩‍🦱 Avatar personalizado
 <div align="center">
-  <img src="https://i.ibb.co/album/avatar-loira-cacheada-long.jpg" alt="Avatar Loira Cacheada Longa" height="180"/>
+  <img src="https://i.ibb.co/0JqvGxN/avatar-loira-cacheada-long.jpg" alt="Avatar Loira Cacheada Longa" height="180"/>
 </div>
+
 
 <p align="center">
   Feito com 💙 por <strong>Raquel Martiniano</strong>
