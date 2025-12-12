@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Animated header -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello animation" width="250"/>
+
   <h1>👋 Hi, I'm Raquel Martiniano</h1>
   <p>Student of Analysis & Systems Development Technology | Web & Game Developer</p>
 
