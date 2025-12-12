@@ -1,16 +1,17 @@
 <div align="center">
-  <!-- Cabeçalho animado -->
+  <!-- Animated header -->
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello animation" width="250"/>
   <h1>👋 Hi, I'm Raquel Martiniano</h1>
   <p>Student of Analysis & Systems Development Technology | Web & Game Developer</p>
 
-  <!-- Avatar animado -->
+  <!-- Animated Avatar -->
   <img src="https://i.ibb.co/your-avatar-animated.gif" alt="Animated Avatar" height="180"/>
 </div>
 
 ---
 
-<!-- Tecnologias com badges -->
+## 🌟 Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -23,20 +24,34 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📂 Main Projects
 
 <div align="center">
-  <!-- Projeto Web com screenshot -->
-  <a href="https://comus.cnat.ifrn.edu.br">
-    <img src="https://i.ibb.co/4S4F8vV/comus-screenshot.png" alt="COMUS Website" height="150"/>
-  </a>
-  <p>Web Development: COMUS WordPress + Elementor</p>
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma design" height="80"/>
-  </a>
-  <p>Figma Prototype</p>
+### 🎮 Tic-Tac-Toe in Assembly MIPS
+<a href="https://github.com/Raquel-M325/Jogo-da-Velha-">
+  <img src="https://i.ibb.co/3C2nRtV/jogo-da-velha-screenshot.png" alt="Tic-Tac-Toe" height="120"/>
+</a>
+<p>Complete project with game logic, bitmap drawing, and sound effects.</p>
+
+### 🌐 COMUS Website (WordPress + Elementor)
+<a href="https://comus.cnat.ifrn.edu.br">
+  <img src="https://i.ibb.co/4S4F8vV/comus-screenshot.png" alt="COMUS Website" height="120"/>
+</a>
+<p>Institutional website under development, based on Figma design.</p>
+
+### 🎨 Figma Prototype — COMUS
+<a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Prototype" height="80"/>
+</a>
+<p>Interface design that is being implemented on WordPress.</p>
+
+### 🧩 OOP Project
+<a href="https://github.com/Raquel-M325/Projeto-do-POO">
+  <img src="https://i.ibb.co/8bXh4KX/poo-screenshot.png" alt="OOP Project" height="120"/>
+</a>
+<p>System developed using Object-Oriented Programming principles.</p>
+
 </div>
 
 ---
