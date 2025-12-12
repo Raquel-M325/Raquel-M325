@@ -28,23 +28,22 @@
 <div align="left">
 
 ### 🎮 Tic-Tac-Toe in Assembly MIPS
-<a href="https://github.com/Raquel-M325/Jogo-da-Velha-">
-</a>
+<p><a href="https://github.com/Raquel-M325/Jogo-da-Velha-"></a></p>
 <p>Complete project with game logic, bitmap drawing, and sound effects.</p>
 
 ### 🌐 COMUS Website (WordPress + Elementor)
-<a href="https://comus.cnat.ifrn.edu.br">
-</a>
+<p><a href="https://comus.cnat.ifrn.edu.br">
+</a></p>
 <p>Institutional website under development, based on Figma design.</p>
 
 ### 🎨 Figma Prototype — COMUS
-<a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
-</a>
+<p><a href="https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0">
+</a></p>
 <p>Interface design that is being implemented on WordPress.</p>
 
 ### 🧩 OOP Project
-<a href="https://github.com/Raquel-M325/Projeto-do-POO">
-</a>
+<p><a href="https://github.com/Raquel-M325/Projeto-do-POO">
+</a></p>
 <p>System developed using Object-Oriented Programming principles.</p>
 
 </div>
