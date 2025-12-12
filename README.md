@@ -43,7 +43,7 @@ I have solid experience in **C++, Python, and Assembly MIPS**, and I enjoy build
 Institutional website under development, based on Figma design.
 
 ### 🎨 **Figma Prototype — COMUS**
-[View Prototype](https://www.figma.com/design/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0)  
+[View Prototype](https://www.figma.com/proto/Bh2vipAJo7Aim3roOwVQHT/Inpira%C3%A7%C3%A3o-de-teste-para-COMUS?t=6aaeyUMArkD1yuWa-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=295-37&starting-point-node-id=295%3A37&show-proto-sidebar=1)  
 Interface design that is being implemented on WordPress.
 
 ### 🧩 **OOP Project**
